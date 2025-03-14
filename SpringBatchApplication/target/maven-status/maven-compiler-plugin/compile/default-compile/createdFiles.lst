@@ -1,0 +1,6 @@
+com\smartmind\SpringBatchApplication\config\SpringBatchConfiguration.class
+com\smartmind\SpringBatchApplication\processor\CustomerProcessor.class
+com\smartmind\SpringBatchApplication\repo\EmployeeRepo.class
+com\smartmind\SpringBatchApplication\SpringBatchApplication.class
+com\smartmind\controller\TestController.class
+com\smartmind\SpringBatchApplication\entity\EmployeeEntity.class
